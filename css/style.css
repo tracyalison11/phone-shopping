@@ -1,0 +1,75 @@
+body {
+    color: #34495E;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.item {
+    border-radius: 4px;
+    height: 165px;
+    margin-bottom: 20px;
+}
+
+.item p {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.item h6 {
+    text-align: center;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.item > .input-group {
+    padding: 0 10px 10px 10px;
+}
+
+.btn {
+    float: right;
+    margin-left: 10px;
+}
+
+#bank-account {
+    background-color: #F7EEBB;
+}
+
+#phone-count {
+    background-color: #9BF4D5;
+}
+
+#phone-count .glyphicon {
+    padding-left: 30px;
+    font-size: 28px;
+}
+
+#phone-count span {
+    text-align: center;
+}
+
+#accessories {
+    background-color: #B4F1F1;
+}
+
+#accessories .glyphicon {
+    padding-left: 30px;
+    font-size: 28px;
+}
+
+.number-phones {
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+    font-size: 36px;
+}
+
+.number-accessories {
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+    font-size: 36px;
+}
+
+.cost {
+    background-color: #9BF4D5;
+}
