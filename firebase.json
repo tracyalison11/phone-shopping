@@ -1,0 +1,9 @@
+{
+  "firebase": "phone-fun",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
